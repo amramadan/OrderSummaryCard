@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/amramadan/OrderSummaryCard)
-- Live Site URL: [Add live site URL here](codesandbox.io/s/github/amramadan/ordersummarycard)
+- Solution URL: [https://github.com/amramadan/OrderSummaryCard](https://github.com/amramadan/OrderSummaryCard)
+- Live Site URL: [https://amramadan.github.io/OrderSummaryCard](https://amramadan.github.io/OrderSummaryCard)
 
 ## My process
 
